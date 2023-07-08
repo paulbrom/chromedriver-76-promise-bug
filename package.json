@@ -3,7 +3,7 @@
   "version": "0.9.0",
   "description": "small project to reproduce bug introduced in chrome or chromedriver 76 involving promises",
   "devDependencies": {
-    "webdriverio": "^5.14.3"
+    "webdriverio": "^8.11.3"
   },
   "license": "MIT",
   "repository": {
